@@ -1,1 +1,1 @@
-Praticals-(Spark Sql)
+Practicals-(Spark Sql)
